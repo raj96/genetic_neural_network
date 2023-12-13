@@ -1,0 +1,4 @@
+<map id="nn_net" name="nn_net">
+<area shape="rect" id="node1" title="Defines a structure for the neural network." alt="" coords="11,95,78,121"/>
+<area shape="rect" id="node2" href="$structnn__layer.html" title="Defines structure of a layer in the neural network." alt="" coords="5,5,84,32"/>
+</map>
