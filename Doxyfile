@@ -1,0 +1,7 @@
+PROJECT_NAME = Genetic Neural Network
+DESCRIPTION = Implementation of a neural network which gets trained using genetic algorithm
+RECURSIVE = YES
+OPTIMIZE_OUTPUT_FOR_C = YES
+OUTPUT_DIRECTORY = docs
+EXCLUDE = ./src/lib
+STRIP_FROM_INC_PATH = ./src/include
